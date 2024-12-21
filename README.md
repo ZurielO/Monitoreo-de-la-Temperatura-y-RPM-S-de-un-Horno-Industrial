@@ -288,7 +288,11 @@ Este flujo de trabajo permite una comunicación bidireccional entre Wokwi (ESP32
 
 (![Texto alternativo](https://github.com/ZurielO/Monitoreo-de-la-Temperatura-y-RPM-S-de-un-Horno-Industrial/blob/main/Captura%20de%20pantalla%202024-12-15%20165555.png).
 
+## Base de datos
 
+Para la base de datos se tiene que descargar el programa de [xampp](https://sourceforge.net/projects/xampp/), lo isntalamos como administrador, lo abrimos y ponemos nueva base de datos como muentra la siguiente imagen (se puede agragar mas columnas a nuestras necesidades).
+
+![](
 
 ## Conclusión
 El programa es una solución funcional que integra sensores, actuadores, y comunicación a través de MQTT en un entorno IoT con ESP32. Es adecuado para aplicaciones en las que se requiere monitorear y reaccionar ante cambios de temperatura, controlar dispositivos como motores paso a paso y generar reportes en tiempo real a través de MQTT. No obstante, para una implementación en producción, se recomienda mejorar aspectos de seguridad y optimizar la gestión de recursos del sistema.
