@@ -286,6 +286,8 @@ El código en Wokwi genera datos de sensores y actuadores en el ESP32, los empaq
 
 Este flujo de trabajo permite una comunicación bidireccional entre Wokwi (ESP32) y RedNote, donde el ESP32 envía datos y RedNote los procesa para su visualización y análisis.
 
+(![Texto alternativo]().
+
 
 ## Conclusión
 El programa es una solución funcional que integra sensores, actuadores, y comunicación a través de MQTT en un entorno IoT con ESP32. Es adecuado para aplicaciones en las que se requiere monitorear y reaccionar ante cambios de temperatura, controlar dispositivos como motores paso a paso y generar reportes en tiempo real a través de MQTT. No obstante, para una implementación en producción, se recomienda mejorar aspectos de seguridad y optimizar la gestión de recursos del sistema.
