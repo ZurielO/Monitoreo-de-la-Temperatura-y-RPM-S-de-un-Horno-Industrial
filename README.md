@@ -1,4 +1,4 @@
-# Monitoreo-de-la-Temperatura-y-RPM-S-de-un-Horno-Industrial
+# Monitoreo de Temperatura y RPM'S de un Horno Industrial
 EQUIPO 2
 
 
