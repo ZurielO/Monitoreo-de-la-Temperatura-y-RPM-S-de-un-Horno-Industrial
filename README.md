@@ -286,7 +286,8 @@ El código en Wokwi genera datos de sensores y actuadores en el ESP32, los empaq
 
 Este flujo de trabajo permite una comunicación bidireccional entre Wokwi (ESP32) y RedNote, donde el ESP32 envía datos y RedNote los procesa para su visualización y análisis.
 
-(![Texto alternativo]().
+(![Texto alternativo](https://github.com/ZurielO/Monitoreo-de-la-Temperatura-y-RPM-S-de-un-Horno-Industrial/blob/main/Captura%20de%20pantalla%202024-12-15%20164942.png).
+
 
 
 ## Conclusión
